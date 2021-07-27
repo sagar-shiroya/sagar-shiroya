@@ -31,10 +31,10 @@ If you'd like to stay up to date with me, you can follow me on <a href="https://
 
 **Github Repos**
 <p> 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagar-shiroya&repo=Laravel-Roadmap-Learning-Path&cache_seconds=86400&theme=dark" alt="sagar-shiroya" />
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagar-shiroya&repo=posty&cache_seconds=86400&theme=dark" alt="sagar-shiroya" />
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagar-shiroya&repo=seven&cache_seconds=86400&theme=dark" alt="sagar-shiroya" />
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagar-shiroya&repo=lumen-crud-api&cache_seconds=86400&theme=dark" alt="sagar-shiroya" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagar-shiroya&repo=Laravel-Roadmap-Learning-Path&theme=dark" alt="sagar-shiroya" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagar-shiroya&repo=posty&theme=dark" alt="sagar-shiroya" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagar-shiroya&repo=seven&theme=dark" alt="sagar-shiroya" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagar-shiroya&repo=lumen-crud-api&theme=dark" alt="sagar-shiroya" />
 </p>
 
 **Github Stats**
