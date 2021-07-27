@@ -29,6 +29,8 @@ Now, I’m currently: <br>
 
 If you'd like to stay up to date with me, you can follow me on <a href="https://twitter.com/OfficialSagar21">Twitter</a>
 
+Checkout my CV [here](https://sagar-shiroya.github.io/resume.pdf), if you want to hire me.
+
 **Github Repos**
 <p> 
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagar-shiroya&repo=Laravel-Roadmap-Learning-Path&theme=graywhite" alt="sagar-shiroya" />
