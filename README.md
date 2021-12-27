@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/sagar-shiroya](github.com/sagar-shiroya)
 
-- 💬 Ask me about **php, react, javascript, aws**
+- 💬 Ask me about **php, javascript, aws**
 
 - 📫 How to reach me **sagar.shiroya8@gmail.com**
 
