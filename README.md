@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/officialsagar21" target="blank"><img src="https://img.shields.io/twitter/follow/officialsagar21?logo=twitter&style=for-the-badge" alt="officialsagar21" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, TailwindCSS, Material UI**
+- 🌱 I’m currently learning **React.js, Java**
 
 - 👯 I’m looking to collaborate on **Web3 Development**
 
@@ -17,14 +17,13 @@
 
 - 📫 How to reach me **sagar.shiroya8@gmail.com**
 
-- ⚡ Fun fact **I think I am smart**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/officialsagar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="officialsagar21" height="30" width="40" /></a>
 <!-- <a href="https://linkedin.com/in/sagar-shiroya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-shiroya" height="30" width="40" /></a> -->
 <a href="https://instagram.com/gujjumunda.clicks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gujjumunda.clicks" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sagar_shiroya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagar_shiroya" height="30" width="40" /></a>
+<a href="https://leetcode.com/sagar-shiroya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar_shiroya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
