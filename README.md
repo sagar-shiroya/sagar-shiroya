@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-shiroya&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-shiroya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar-shiroya" alt="sagar-shiroya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar-shiroya&theme=flat&margin-w=15&margin-h=15&column=7&no-frame=true" alt="sagar-shiroya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/officialsagar21" target="blank"><img src="https://img.shields.io/twitter/follow/officialsagar21?logo=twitter&style=for-the-badge" alt="officialsagar21" /></a> </p>
 
