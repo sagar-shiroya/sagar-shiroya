@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React.js, Java**
 
-- 👯 I’m looking to collaborate on **Web3 Development**
-
 - 👨‍💻 All of my projects are available at [github.com/sagar-shiroya](github.com/sagar-shiroya)
 
 - 💬 Ask me about **php, javascript, aws**
